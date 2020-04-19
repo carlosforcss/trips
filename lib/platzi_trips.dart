@@ -13,7 +13,7 @@ class PlatziTrips extends StatefulWidget{
 
 class _PlatziTrips extends State<PlatziTrips>{
 
-  int indexTap = 0;
+  int indexTap = 2;
 
   final List <Widget> widgetsChildren = [
     HomeTrips(),
